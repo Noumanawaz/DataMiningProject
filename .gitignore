@@ -67,7 +67,7 @@ experiments/*/results/*.png
 experiments/*/results/*.npz
 experiments/*/results/*.json
 
+.gitignore
 branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
-.gitignore
